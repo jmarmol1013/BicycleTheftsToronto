@@ -31,6 +31,6 @@ A comprehensive Power BI dashboard was created, including:
 - **Analysis Page**:
 ![PowerBI Trend](./Trend.png)
 - **Map Page**: 
-![PowerBI Map](./map.png)
+![PowerBI Map](./Map.png)
 
 ## More features
