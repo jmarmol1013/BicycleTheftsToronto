@@ -25,6 +25,12 @@ Initial exploration steps included:
 - Detecting potential outliers in numerical data.
 
 ## Power BI Dashboard
-TODO
+A comprehensive Power BI dashboard was created, including:
+- **Overview Page**: 
+![PowerBI Overview](./Overview.png)
+- **Analysis Page**:
+![PowerBI Trend](./Trend.png)
+- **Map Page**: 
+![PowerBI Map](./map.png)
 
 ## More features
